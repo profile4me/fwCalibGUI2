@@ -1,0 +1,10 @@
+app
+gui
+analysisDST
+genTree
+*.root
+build
+*.list
+core
+test
+
